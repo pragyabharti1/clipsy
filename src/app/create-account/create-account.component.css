@@ -1,0 +1,24 @@
+class CreateAccount{
+    user:UserDetail;
+    
+  
+    onChangeUserName(){
+  
+    }
+  
+    onChangeEmail(){
+  
+    }
+  
+    onChangeFullName(){
+  
+    }
+  
+    onChangePasword(){
+  
+    }
+  
+    onChangeConfirmPasword(){
+      
+    }
+  }
